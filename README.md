@@ -1,1 +1,1 @@
-### Live long & pull request
+### Live long and Pull Request
