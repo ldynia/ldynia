@@ -1,7 +1,7 @@
 #### Live long and Pull Request
 
 I'm the co-author of [learningapistyles.com][1] published by [O'Reilly][2]. 
-I'm also an independent consultant, though I prefer the term "a gun for hire" (don't worry, the bullets are meant for troubleshooting).
+I'm also an independent consultant, though I prefer the term "gun for hire" (don't worry, the bullets are meant for troubleshooting).
 I bridge people with technology by doing various forms of software engineering for a living. What about you? What's your Kung-Foo?
 
   [1]: https://learningapistyles.com
