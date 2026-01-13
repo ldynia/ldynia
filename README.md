@@ -1,6 +1,12 @@
 #### Live long and Pull Request
 
-I'm an independent consultant (aka a gun for hire) and co-author of [Learning API Styles](https://www.amazon.com/Learning-API-Styles-Understanding-Trade-Offs/dp/1098153995) published by [O'Reilly](https://learning.oreilly.com/library/view/learning-api-styles/9781098153984/). I do engineering for a living and programming for fun. I work with people and technology. In short, I'm immersed in software engineering. What about you? What's your Kung-Foo? P.S. Don't worry, the bullets from this gun are meant to troubleshoot.
+I'm the co-author of [learningapistyles.com][1] published by [O'Reilly][2]. 
+I'm also an independent consultant, though I prefer the term "a gun for hire" (don't worry, the bullets are meant for troubleshooting).
+I bridge people with technology by doing various forms of software engineering for a living. What about you? What's your Kung-Foo?
+
+  [1]: https://learningapistyles.com
+  [2]: https://learning.oreilly.com/library/view/learning-api-styles/9781098153984/
+
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="28" height="28">](https://www.linkedin.com/in/ldynia/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/stackoverflow.svg" alt="Stack Overflow" width="28" height="28">](https://stackoverflow.com/users/2095676/lukasz-dynowski?tab=profile)
