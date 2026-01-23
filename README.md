@@ -2,7 +2,7 @@
 
 I’m the author of [learningapistyles.com][1] published by [O'Reilly][2], and I bridge people with technology by crossing the chasms of software engineering.
 I translate business needs into software requirements, helping teams architect, design, implement, and operate secure systems.
-I’m also an independent consultant, though I prefer the term “gun for hire”. Don’t worry: the gun is aimed at software problems, and the bullets are meant for troubleshooting.
+I’m also an independent consultant, though I prefer the term “gun for hire”. Don’t worry: the gun is pointed at software problems, and the bullets are meant for troubleshooting.
 
   [1]: https://learningapistyles.com
   [2]: https://learning.oreilly.com/library/view/learning-api-styles/9781098153984/
